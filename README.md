@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working as a Full Stack Developer.
 
-- 📫 How to reach me **iam_ragul@outlook.com**
+- 📫 How to reach me **iamragul@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
